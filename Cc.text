@@ -15,5 +15,3 @@ def users(name):
         lo=len(zaq)
         return {'list':zaq,"number":lo}
     except:return "error"
-ooi=users(nnnm)
-print(ooi)
