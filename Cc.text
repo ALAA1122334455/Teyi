@@ -16,4 +16,4 @@ def users(name):
         return {'list':zaq,"number":lo}
     except:return "error"
 ooi=users(nnnm)
-return ooi
+print(ooi)
